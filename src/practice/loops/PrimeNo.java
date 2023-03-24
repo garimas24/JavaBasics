@@ -1,6 +1,7 @@
 package practice.loops;
 public class PrimeNo {
-    int n ; int count = 0;
+    int n ;
+    int count = 0;
     public static void main(String[] args) {
         for(int a = 1;a<=n;a++){
                 if(n % a==0) {
